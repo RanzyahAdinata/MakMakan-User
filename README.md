@@ -1,11 +1,24 @@
-# MakMakan-User
+# makmakan-frontend
 
-#Spesifikasi
--Vue 2 CLI
--Node Js 18
--Json Server
+## Project setup
+```
+npm install
+```
 
-#Cara Running
-1. Npm Install 
-2. cd db, json-server --watch db.json
-3. New Terminal , NPM RUN Serve
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
